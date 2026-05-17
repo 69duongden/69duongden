@@ -1,0 +1,22 @@
+{
+    "metadata": {
+        "name": "69shuba",
+        "author": "Duy",
+        "version": 1,
+        "source": "https://www.69shuba.com",
+        "regexp": "https://www\\.69shuba\\.com/.*?",
+        "description": "Nhìn dell gì",
+        "locale": "zh_CN",
+        "type": "novel",
+        "language": "javascript"
+    },
+    "script": {
+        "home": "home.js",
+        "genre": "genre.js",
+        "search": "search.js",
+        "detail": "detail.js",
+        "toc": "toc.js",
+        "chap": "chap.js",
+        "page": "page.js"
+    }
+}
